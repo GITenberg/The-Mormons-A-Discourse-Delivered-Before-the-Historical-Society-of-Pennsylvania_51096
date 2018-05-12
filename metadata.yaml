@@ -1,10 +1,16 @@
 _repo: The-Mormons-A-Discourse-Delivered-Before-the-Historical-Society-of-Pennsylvania_51096
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51096-h/images/cover.jpg
 creator:
   author:
     agent_name: Kane, Thomas L.
     gutenberg_agent_id: '46240'
     url: http://www.gutenberg.org/2009/agents/46240
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51096#The-Mormons-A-Discourse-Delivered-Before-the-Historical-Society-of-Pennsylvania
 gutenberg_issued: '2016-01-31'
 gutenberg_type: Text
 identifiers:
